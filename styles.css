@@ -1,0 +1,24 @@
+body{
+    box-sizing: border-box;
+    height: 100vh;
+}
+h1{
+    font-family: 'Bungee Spice', sans-serif;
+    text-align: center;
+}
+
+h3{
+    color: peru;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 10%;
+    height: 10%;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    align-items: center;
+}
